@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/master/msdos-logo.png">   
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/main/.readmes/msdos-logo.png">  
 
 # Исходный код MS-DOS v1.25 и v2.0
 Репозиторий содержит оригинальный исходный код и скомпилированные бинарные файлы MS-DOS v1.25 и MS-DOS v2.0.
