@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logga" src="https://github.com/Microsoft/MS-DOS/blob/master/msdos-logo.png">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/main/.readmes/msdos-logo.png">  
 
 # MS-DOS v1.25 och v2.0 källkod
 Det här repot innehåller orginalkällkoden och kompilerade binär-filer för MS-DOS v1.25 och MS-DOS v2.0.
