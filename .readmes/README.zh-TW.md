@@ -1,6 +1,6 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/main/.readmes/msdos-logo.png">  
 
-
+# MS-DOS v1.25 和 v2.0 的原始碼
 這個 repo 包括了 MS-DOS v1.25 和 MS-DOS v2.0 的原始碼以及編譯好的執行檔。
 
 我們在 [2014 年的 3/25 於計算機歷史博物館 (Computer History Museum)](http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/) 也分享過一模一樣的檔案。現在把這些檔案放在這個 repo 中，讓大家可以更方便地搜尋，以及在其他文章或專案中參考，也讓對於早期 PC 作業系統有興趣的人可以進行探索與實驗。
