@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/main/.readmes/msdos-logo.png">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/main/.readmes/msdos-logo.png"><br>
 
 # MS-DOS v1.25 和 v2.0 的原始碼
 這個 repo 包括了 MS-DOS v1.25 和 MS-DOS v2.0 的原始碼以及編譯好的執行檔。
