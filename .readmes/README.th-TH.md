@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/master/msdos-logo.png">   
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/main/.readmes/msdos-logo.png">   
 
 # ซอร์สโค๊ด ของ MS-DOS เวอร์ชั่น 1.25 และ เวอร์ชั่น 2.0 
 Repo นี้ได้เก็บซอสโค๊ดต้นฉบับและไบนารี่ที่ถูกคอลไพลแล้วสำหรับ MS-DOS เวอชั่น 1.25 และ MS-DOS เวอร์ชั่น 2.0
